@@ -1,20 +1,20 @@
 👋 Hi, I’m `@maxmartelli`.
 
 👀 I’m interested in:
-  - `Linux`/`Unix`, `Serenity OS`, `Windows`, `Android`, `macOS`
+  - `Linux`/`Unix`, `Windows`, `Android`, `macOS`
   - `Embedded` programming, `RTOS`, `Firmware` development
   - `Desktop` and `Mobile` applications
   - `Frontend`, `Backend` development
   - `C`, `C++`, `C#`
   - `bash`, `zsh`, `fish`
   - `Python`
-  - `JavaScript`, `HTML`, `CSS`
+  - `Rust`
+  - `JavaScript`, `TypeScript`, `HTML`, `CSS`
   - `Raspberry PI`
   - `Control systems`
   - `Modeling` and `Simulation`
   - `ROS2`
   - `Neovim`, `Lua`
-  - `olcPixelGameEngine`
 
 🌱 I’m currently learning:
   - How to write better `Modern C++` code
@@ -24,7 +24,8 @@
   - Anything interesting/fun/exciting.
 
 📫 How to reach me:
-  - `@paopape` on *Twitter*.
+  - [...]
+
 
 <!---
 maxmartelli/maxmartelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
